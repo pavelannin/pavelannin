@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1643514289/1754/rocket.gif?1643514289" width="30"/>
-  Hi, I'm Pavel — Mobile Developer @ Android & iOS
+  Привет, я Павел — Mobile Developer @ Android & iOS
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h1>
 
